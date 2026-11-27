@@ -14,7 +14,7 @@ header {
   padding: 28px 16px;
   text-align: center;
   color: white;
-  background: #17365d;
+  background: #1d4e89;
 }
 
 nav a {
@@ -38,7 +38,7 @@ section {
 footer {
   padding: 12px;
   text-align: center;
-  background: #e1eaf4;
+  background: #cfe0f3;
 }
 
 nav a:hover {
